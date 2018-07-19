@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="32px" viewBox="0 0 30 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>clone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.0%" y="-2.3%" width="104.0%" height="106.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Main1-1:-My-account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Wallet-open-eye" transform="translate(-332.000000, -283.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="Card" filter="url(#filter-1)" transform="translate(32.000000, 113.000000)">
+                <g id="clone" transform="translate(304.000000, 172.000000)">
+                    <path d="M4.89999998,20.25 L18.25,20.25 L18.25,23.25 L0.75,23.25 L0.75,3.75 L3.75,3.75 L3.75,19.1 C3.75,19.7351275 4.26487253,20.25 4.89999998,20.25 Z M3.75,1.89999998 L3.75,3.75 L2,3.75 C1.30964406,3.75 0.75,4.30964406 0.75,5 L0.75,22 C0.75,22.6903559 1.30964406,23.25 2,23.25 L17,23.25 C17.6903559,23.25 18.25,22.6903559 18.25,22 L18.25,20.25 L20.1,20.25 C20.7351275,20.25 21.25,19.7351275 21.25,19.1 L21.25,1.89999998 C21.25,1.26487253 20.7351275,0.75 20.1,0.75 L4.89999998,0.75 C4.26487253,0.75 3.75,1.26487253 3.75,1.89999998 Z M3.75,20.25 L3.75,0.75 L21.25,0.75 L21.25,20.25 L3.75,20.25 Z M7.75,5.75 L17.25,5.75 L17.25,6 L17.5,5.75 L18,5.75 L17.75,5.5 L18,5.25 L17.5,5.25 L17.25,5 L17.25,5.25 L7.75,5.25 L7.75,5 L7.5,5.25 L7,5.25 L7.25,5.5 L7,5.75 L7.5,5.75 L7.75,6 L7.75,5.75 Z M7.75,8.75 L17.25,8.75 L17.25,9 L17.5,8.75 L18,8.75 L17.75,8.5 L18,8.25 L17.5,8.25 L17.25,8 L17.25,8.25 L7.75,8.25 L7.75,8 L7.5,8.25 L7,8.25 L7.25,8.5 L7,8.75 L7.5,8.75 L7.75,9 L7.75,8.75 Z M7.75,11.75 L17.25,11.75 L17.25,12 L17.5,11.75 L18,11.75 L17.75,11.5 L18,11.25 L17.5,11.25 L17.25,11 L17.25,11.25 L7.75,11.25 L7.75,11 L7.5,11.25 L7,11.25 L7.25,11.5 L7,11.75 L7.5,11.75 L7.75,12 L7.75,11.75 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
