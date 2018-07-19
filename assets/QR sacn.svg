@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>QR sacn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main1-1:-My-account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Wallet-open-eye" transform="translate(-351.000000, -53.000000)" fill="#FFFFFF">
+            <g id="header" transform="translate(0.000000, 43.000000)">
+                <g id="QR-sacn" transform="translate(351.000000, 10.000000)">
+                    <path d="M24,16.44 L24,19 C24,21.7614237 21.7614237,24 19,24 L16.44,24 L16.44,22.2 L20.2,22.2 C21.3045695,22.2 22.2,21.3045695 22.2,20.2 L22.2,16.44 L24,16.44 Z M24,7.68 L22.2,7.68 L22.2,3.8 C22.2,2.6954305 21.3045695,1.8 20.2,1.8 L16.44,1.8 L16.44,0 L19,0 C21.7614237,-5.07265313e-16 24,2.23857625 24,5 L24,7.68 Z M2.66453526e-15,16.44 L1.8,16.44 L1.8,20.2 C1.8,21.3045695 2.6954305,22.2 3.8,22.2 L7.68,22.2 L7.68,24 L5,24 C2.23857625,24 2.11453371e-15,21.7614237 1.77635684e-15,19 L1.4515373e-15,16.44 Z M3.40045452e-16,7.68 L0,5 C-3.38176876e-16,2.23857625 2.23857625,2.28362215e-15 5,1.77635684e-15 L7.68,0 L7.68,1.8 L3.8,1.8 C2.6954305,1.8 1.8,2.6954305 1.8,3.8 L1.8,7.68 L0,7.68 Z M0.12,11.4 L23.88,11.4 L23.88,12.6 L0.12,12.6 L0.12,11.4 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
