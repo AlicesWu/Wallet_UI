@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="349px" height="221px" viewBox="0 0 349 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Card</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="94.95278%" cy="4.33324353%" fx="94.95278%" fy="4.33324353%" r="173.723121%" gradientTransform="translate(0.949528,0.043332),scale(0.630544,1.000000),rotate(146.585965),translate(-0.949528,-0.043332)" id="radialGradient-1">
+            <stop stop-color="#051701" offset="0%"></stop>
+            <stop stop-color="#354049" offset="100%"></stop>
+        </radialGradient>
+        <path d="M14,0 L329,3.55271368e-15 C340.045695,1.52365243e-15 349,8.954305 349,20 L349,200.059998 C349,211.105693 340.045695,220.059998 329,220.059998 L20,220.059998 C8.954305,220.059998 1.3527075e-15,211.105693 0,200.059998 L-1.77635684e-15,14 C-2.72325209e-15,6.2680135 6.2680135,-3.56013962e-16 14,-1.77635684e-15 Z" id="path-2"></path>
+        <filter x="-24.9%" y="-38.6%" width="161.3%" height="197.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="20" dy="22" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.046857662   0 0 0 0 0.0533451493   0 0 0 0 0.121173469  0 0 0 0.354817708 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Base">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="Mask">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                <use fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <ellipse id="Oval-10" fill-opacity="0.1" fill="#FFFFFF" style="mix-blend-mode: soft-light;" mask="url(#mask-3)" cx="255.421978" cy="-90.6798955" rx="172.582418" ry="171.874446"></ellipse>
+            <ellipse id="Oval-10-Copy" fill-opacity="0.1" fill="#FFFFFF" style="mix-blend-mode: soft-light;" mask="url(#mask-3)" cx="261.558242" cy="-50.4620339" rx="178.718681" ry="177.945067"></ellipse>
+            <ellipse id="Oval-10-Copy-2" fill-opacity="0.1" fill="#FFFFFF" style="mix-blend-mode: soft-light;" mask="url(#mask-3)" cx="293.773626" cy="1.51765516" rx="218.604396" ry="217.783515"></ellipse>
+        </g>
+    </g>
+</svg>
